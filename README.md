@@ -51,5 +51,6 @@ TOTAL | 100%
 * Evaluate a deployment for points of failure
 
 ## Links and References
-- [AWS Certified DevOps Engineer - Professional landing page](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-- [AWS Certified DevOps Engineer – Professional(DOP-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
+- [AWS Certified DevOps Engineer - Professional (Landing Page)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+- [AWS Certified DevOps Engineer – Professional(DOP-C01) Exam Guide (PDF)](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
+- [AWS Certified DevOps Engineer - Professional Sample Questions (PDF)](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
