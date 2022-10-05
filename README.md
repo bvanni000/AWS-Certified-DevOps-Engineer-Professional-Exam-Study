@@ -54,3 +54,13 @@ TOTAL | 100%
 - [AWS Certified DevOps Engineer - Professional (Landing Page)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 - [AWS Certified DevOps Engineer – Professional(DOP-C01) Exam Guide (PDF)](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
 - [AWS Certified DevOps Engineer - Professional Sample Questions (PDF)](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
+- [The Twelve-Factor App](https://12factor.net/)
+
+## Related AWS Whitepapers
+- [Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
+- [Implementing Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
+- [Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf)
+- [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.html)
+- [Development and Test on Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/development-and-test-on-aws/development-and-test-on-aws.html)
+- [Security in Amazon CodeGuru Profiler](https://docs.aws.amazon.com/whitepapers/latest/security-in-codeguru-profiler/security-in-codeguru-profiler.html)
+- [Introduction to DevOps on AWS](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/welcome.html)
