@@ -1,5 +1,5 @@
-# AWS-Certified-Solutions-Architect-Professional-Exam-Study
-Study Guide for AWS Certified Solutions Architect Professional Exam
+# AWS-Certified-DevOps-Engineer-Professional-Exam-Study
+Study Guide for AWS Certified DevOps Engineer Professional Exam
 
 ## Study Domains (from AWS website 10/05/2022)
 Domain | % of Examination
