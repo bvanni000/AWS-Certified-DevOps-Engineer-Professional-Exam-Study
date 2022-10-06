@@ -58,11 +58,10 @@ TOTAL | 100%
 - [AWS DevOps Workshops](https://workshops.aws/categories/DevOps)
 
 ## Related AWS Whitepapers
-- [ ] checkbox
 - [ ] [Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
-- [Implementing Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
-- [Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf)
-- [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.html)
-- [Development and Test on Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/development-and-test-on-aws/development-and-test-on-aws.html)
-- [Security in Amazon CodeGuru Profiler](https://docs.aws.amazon.com/whitepapers/latest/security-in-codeguru-profiler/security-in-codeguru-profiler.html)
-- [Introduction to DevOps on AWS](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/welcome.html)
+- [ ] [Implementing Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
+- [ ] [Infrastructure as Code](https://d1.awsstatic.com/whitepapers/DevOps/infrastructure-as-code.pdf)
+- [ ] [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.html)
+- [ ] [Development and Test on Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/development-and-test-on-aws/development-and-test-on-aws.html)
+- [ ] [Security in Amazon CodeGuru Profiler](https://docs.aws.amazon.com/whitepapers/latest/security-in-codeguru-profiler/security-in-codeguru-profiler.html)
+- [ ] [Introduction to DevOps on AWS](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/welcome.html)
