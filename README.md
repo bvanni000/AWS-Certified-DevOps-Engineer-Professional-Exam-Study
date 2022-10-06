@@ -55,6 +55,7 @@ TOTAL | 100%
 - [AWS Certified DevOps Engineer – Professional(DOP-C01) Exam Guide (PDF)](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Exam-Guide.pdf)
 - [AWS Certified DevOps Engineer - Professional Sample Questions (PDF)](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS-Certified-DevOps-Engineer-Professional_Sample-Questions.pdf)
 - [The Twelve-Factor App](https://12factor.net/)
+- [AWS DevOps Workshops](https://workshops.aws/categories/DevOps)
 
 ## Related AWS Whitepapers
 - [Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
