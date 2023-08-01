@@ -17,13 +17,13 @@
 ### Knowledge of:
 <details><summary>Different types of tests (for example, unit tests, integration tests, acceptance tests, user interface tests, security scans)</summary>
  <p>
-  * unit tests: define...
-  * integration tests
-  * acceptance tests
-  * user interface tests
-  * security scans
-  ** static
-  ** dynamic
+  <ul>
+   <li>unit tests: define...</li>
+   <li>integration tests</li>
+   <li>acceptance tests</li>
+   <li>user interface tests</li>
+   <li>security scans</li>
+  </ul>
  </p>
 </details>
 <details><summary>Reasonable use of different types of tests at different stages of the CI/CD pipeline</summary><p></p></details>
