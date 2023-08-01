@@ -8,6 +8,14 @@
   <ul>
    <li>concepts</li>
    <li>phases</li>
+    <ul>
+     <li>Source</li>
+     <li>Build</li>
+     <li>Test</li>
+     <li>Deploy (for release)</li>
+     <li>Monitor</li>
+     <li>Plan</li>
+    </ul>
    <li>models</li>
   </ul>
  </p>
