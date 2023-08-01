@@ -1,6 +1,7 @@
 # Domain 1: SDLC Automation - 22%
 
 ## Task Statement 1.1: Implement CI/CD pipelines
+
 ### Knowledge of:
 <details><summary>Software development lifecycle (SDLC) concepts, phases, and models</summary><p></p></details>
 <details><summary>Pipeline deployment patterns for single- and multi-account environments</summary><p></p></details>
@@ -13,8 +14,41 @@
 <details><summary>Determining appropriate deployment strategies (for example, AWS CodeDeploy)</summary><p></p></details>
 
 ## Task Statement 1.2: Integrate automated testing into CI/CD pipelines
+### Knowledge of:
+<details><summary>Different types of tests (for example, unit tests, integration tests, acceptance tests, user interface tests, security scans)</summary><p></p></details>
+<details><summary>Reasonable use of different types of tests at different stages of the CI/CD pipeline</summary><p></p></details>
+
+### Skills in:
+<details><summary>Running builds or tests when generating pull requests or code merges (for example, AWS CodeCommit, CodeBuild)</summary><p></p></details>
+<details><summary>Running load/stress tests, performance benchmarking, and application testing at scale</summary><p></p></details>
+<details><summary>Measuring application health based on application exit codes</summary><p></p></details>
+<details><summary>Automating unit tests and code coverage</summary><p></p></details>
+<details><summary>Invoking AWS services in a pipeline for testing</summary><p></p></details>
+
 ## Task Statement 1.3: Build and manage artifacts
+### Knowledge of:
+<details><summary>Artifact use cases and secure management</summary><p></p></details>
+<details><summary>Methods to create and generate artifacts</summary><p></p></details>
+<details><summary>Artifact lifecycle considerations</summary><p></p></details>
+
+### Skills in:
+<details><summary>Creating and configuring artifact repositories (for example, AWS CodeArtifact, Amazon S3, Amazon Elastic Container Registry [Amazon ECR])</summary><p></p></details>
+<details><summary>Configuring build tools for generating artifacts (for example, CodeBuild, AWS Lambda)</summary><p></p></details>
+<details><summary>Automating Amazon EC2 instance and container image build processes (for example, EC2 Image Builder)</summary><p></p></details>
+
 ## Task Statement 1.4: Implement deployment strategies for instance, container, and serverless environments
+### Knowledge of:
+<details><summary>Deployment methodologies for various platforms (for example, Amazon EC2, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS], Lambda)</summary><p></p></details>
+<details><summary>Application storage patterns (for example, Amazon Elastic File System [Amazon EFS], Amazon S3, Amazon Elastic Block Store [Amazon EBS])</summary><p></p></details>
+<details><summary>Mutable deployment patterns in contrast to immutable deployment patterns</summary><p></p></details>
+<details><summary>Tools and services available for distributing code (for example, CodeDeploy, EC2 Image Builder)</summary><p></p></details>
+
+### Skills in:
+<details><summary>Configuring security permissions to allow access to artifact repositories (for example, AWS Identity and Access Management [IAM], CodeArtifact)</summary><p></p></details>
+<details><summary>Configuring deployment agents (for example, CodeDeploy agent)</summary><p></p></details>
+<details><summary>Troubleshooting deployment issues</summary><p></p></details>
+<details><summary>Using different deployment methods (for example, blue/green, canary)</summary><p></p></details>
+
 
 # OLD
 ## Apply concepts required to automate a CI/CD pipeline
