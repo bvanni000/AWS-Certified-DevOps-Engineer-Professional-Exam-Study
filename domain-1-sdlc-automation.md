@@ -15,7 +15,17 @@
 
 ## Task Statement 1.2: Integrate automated testing into CI/CD pipelines
 ### Knowledge of:
-<details><summary>Different types of tests (for example, unit tests, integration tests, acceptance tests, user interface tests, security scans)</summary><p></p></details>
+<details><summary>Different types of tests (for example, unit tests, integration tests, acceptance tests, user interface tests, security scans)</summary>
+ <p>
+  * unit tests: define...
+  * integration tests
+  * acceptance tests
+  * user interface tests
+  * security scans
+  ** static
+  ** dynamic
+ </p>
+</details>
 <details><summary>Reasonable use of different types of tests at different stages of the CI/CD pipeline</summary><p></p></details>
 
 ### Skills in:
