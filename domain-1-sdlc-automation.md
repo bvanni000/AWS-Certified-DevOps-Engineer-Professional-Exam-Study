@@ -3,7 +3,15 @@
 ## Task Statement 1.1: Implement CI/CD pipelines
 
 ### Knowledge of:
-<details><summary>Software development lifecycle (SDLC) concepts, phases, and models</summary><p></p></details>
+<details><summary>Software development lifecycle (SDLC) concepts, phases, and models</summary>
+ <p>
+  <ul>
+   <li>concepts</li>
+   <li>phases</li>
+   <li>models</li>
+  </ul>
+ </p>
+</details>
 <details><summary>Pipeline deployment patterns for single- and multi-account environments</summary><p></p></details>
 
 ### Skills in:
