@@ -1,4 +1,22 @@
 # Domain 1: SDLC Automation - 22%
+
+## Task Statement 1.1: Implement CI/CD pipelines
+### Knowledge of:
+<details><summary>Software development lifecycle (SDLC) concepts, phases, and models</summary><p></p></details>
+<details><summary>Pipeline deployment patterns for single- and multi-account environments</summary><p></p></details>
+
+### Skills in:
+<details><summary>Configuring code, image, and artifact repositories</summary><p></p></details>
+<details><summary>Using version control to integrate pipelines with application environments</summary><p></p></details>
+<details><summary>Setting up build processes (for example, AWS CodeBuild)</summary><p></p></details>
+<details><summary>Managing build and deployment secrets (for example, AWS Secrets Manager, AWS Systems Manager Parameter Store)</summary><p></p></details>
+<details><summary>Determining appropriate deployment strategies (for example, AWS CodeDeploy)</summary><p></p></details>
+
+## Task Statement 1.2: Integrate automated testing into CI/CD pipelines
+## Task Statement 1.3: Build and manage artifacts
+## Task Statement 1.4: Implement deployment strategies for instance, container, and serverless environments
+
+# OLD
 ## Apply concepts required to automate a CI/CD pipeline
 <details><summary>Set up repositories</summary><p></p></details>
 <details><summary>Set up build services</summary><p></p></details>
